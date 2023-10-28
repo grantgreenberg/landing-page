@@ -175,12 +175,11 @@ img {
     align-items: center;
     color:#F9FAF8;
     gap: 30px;
-    padding: auto 30px;
+    padding: 30px 30px;
 }
 
 .container-action .content .textbox {
     display: flex;
-    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     gap: 5px;
